@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ProPal - Terms of Service</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            margin: 20px;
+            padding: 20px;
+            background-color: #f8f8f8;
+        }
+
+        h1 {
+            color: #333;
+            text-align: center;
+        }
+
+        p {
+            color: #555;
+            line-height: 1.6;
+        }
+
+        a {
+            color: #007BFF;
+            text-decoration: none;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        .footer {
+            margin-top: 20px;
+            text-align: center;
+            color: #777;
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="container">
+        <h1>TERMS OF SERVICE (TOS)</h1>
+
+        <h2>Acceptance of Terms</h2>
+        <p>By using ProPal, a Discord bot, you agree to be bound by the following terms and conditions (“Terms of Service”). If you do not agree with these terms, then do not use this Discord bot.</p>
+
+        <h2>Description of Service</h2>
+        <p>ProPal ("the bot") is a Discord bot that uses user IDs for its functionalities. The bot does not collect, store, or share any personal information beyond the Discord ID.</p>
+
+        <h2>User Obligations</h2>
+        <p>By using the bot, you represent that you are of legal age to form a binding contract. You agree not to use the bot for any illegal activities or to violate any applicable laws.</p>
+
+        <h2>Privacy</h2>
+        <p>The bot only uses your Discord ID to provide its services. The bot does not store your Discord ID or any personal data associated with it.</p>
+
+        <h2>Limitation of Liability</h2>
+        <p>To the maximum extent permitted by applicable law, <span style="color: #007BFF;">ProPal</span> will not be liable for any indirect, incidental, special, consequential, or punitive damages, or any loss of profits or revenues, whether incurred directly or indirectly.</p>
+
+        <h2>Changes to the Terms of Service</h2>
+        <p>We reserve the right, at our sole discretion, to modify or replace these Terms of Service at any time. We will provide notice of such changes on this page.</p>
+
+        <h2>Contact</h2>
+        <p>For any questions about these Terms of Service, please contact us at <a href="mailto:3rb.police@gmail.com">3rb.police@gmail.com</a>.</p>
+
+        <p class="footer">Last Updated on: 12/24/2023<br>By using ProPal, you are agreeing to these Terms of Service.</p>
+    </div>
+
+</body>
+
+</html>

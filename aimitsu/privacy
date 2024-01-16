@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Bot Privacy Policy</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background-color: #f8f9fa;
+      color: #343a40;
+      margin: 20px;
+    }
+
+    h1 {
+      color: #007bff;
+      text-align: center;
+    }
+
+    p {
+      color: #495057;
+    }
+
+    ul {
+      color: #6c757d;
+      margin-left: 20px;
+    }
+
+    a {
+      color: #007bff;
+      text-decoration: none;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+
+    .container {
+      max-width: 800px;
+      margin: 0 auto;
+      background-color: #ffffff;
+      padding: 20px;
+      border-radius: 5px;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+  </style>
+</head>
+<body>
+
+  <div class="container">
+    <h1>Bot Privacy Policy</h1>
+
+    <p>This privacy policy explains how we collect, use, and protect your personal information:</p>
+
+    <ul>
+      <li>We do not collect any personal information from users.</li>
+      <li>The bot may log usage data for analytics purposes, but it is anonymized and does not include personal details.</li>
+      <li>We do not share user data with third parties.</li>
+      <li>Links to third-party websites or services are not governed by this privacy policy.</li>
+      <li>This privacy policy is subject to change without notice.</li>
+    </ul>
+
+    <p>For questions or concerns, please contact us at <a href="mailto:support@amtixdev.xyz">support@amtixdev.xyz</a>.</p>
+  </div>
+
+</body>
+</html>

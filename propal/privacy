@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ProPal - Privacy Policy</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            margin: 20px;
+            padding: 20px;
+            background-color: #f8f8f8;
+        }
+
+        h1 {
+            color: #333;
+            text-align: center;
+        }
+
+        p {
+            color: #555;
+            line-height: 1.6;
+        }
+
+        a {
+            color: #007BFF;
+            text-decoration: none;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        .footer {
+            margin-top: 20px;
+            text-align: center;
+            color: #777;
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="container">
+        <h1>PRIVACY POLICY</h1>
+
+        <p>This privacy policy ("Policy") describes how Propal ("Propal", "we", "us" or "our") collects, protects and uses the personally identifiable information ("Personal Information") you ("User", "you" or "your") may provide on the Discord chat platform where our bot is active.</p>
+
+        <h2>1. Collection of Personal Information</h2>
+        <p>Propal collects the minimum amount of information necessary to fulfill its functionality. This information includes your Discord ID. No other personal information is collected or stored by Propal.</p>
+
+        <h2>2. Use of Personal Information</h2>
+        <p>Any of the information we collect from you may be used solely for the purpose of providing you with the services of the Propal bot on the Discord platform.</p>
+
+        <h2>3. Data Storage and Protection</h2>
+        <p>Propal does store your Discord ID only, not any other personal data. The bot operates in real-time, using your Discord ID only while you're actively interacting with it.</p>
+
+        <h2>4. Disclosure of Personal Information</h2>
+        <p>We will not disclose your personal information to any third parties unless we are required to do so by law.</p>
+
+        <h2>5. Changes to this Privacy Policy</h2>
+        <p>We reserve the right to modify this privacy policy at any time, so please review it frequently. Changes and clarifications will take effect immediately upon their posting on the website.</p>
+
+        <h2>6. Acceptance of this Policy</h2>
+        <p>You acknowledge that you have read this Policy and agree to all its terms and conditions. By using Propal, you agree to the collection and use of information in accordance with this policy.</p>
+
+        <h2>7. Contacting Us</h2>
+        <p>If you have any questions about this Policy, please contact us at <a href="mailto:3rb.police@gmail.com">3rb.police@gmail.com</a>.</p>
+
+        <p class="footer">Last Updated on: 12/24/2023</p>
+    </div>
+
+</body>
+
+</html>
