@@ -278,3 +278,26 @@ $( document ).ready(function() {
   transitionLabels();
 
 });
+
+window.addEventListener('devtoolschange', function(event) {
+  if (event.detail.isOpen) {
+      console.log('Developer tools are open');
+      window.location.href = 'https://amtixdev.xyz/';
+  }
+});
+
+document.addEventListener('contextmenu', function(event) {
+  event.preventDefault();
+});
+
+document.addEventListener('keydown', function(event) {
+  if ((event.ctrlKey && event.shiftKey && event.key === 'J')) {
+      alert('Developer tools are disabled.');
+  }
+});
+
+document.addEventListener('keydown', function(event) {
+  if ((event.ctrlKey && event.shiftKey && event.key === 'I')) {
+      alert('Developer tools are disabled.');
+  }
+});
